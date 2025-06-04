@@ -10,7 +10,7 @@
 
 略懂前端开发；
 
-- 📫 我的邮箱: [chadwuo@outlook.com](mailto:chadwuo@outlook.com);
+- 📫 Email: [chadwuo@outlook.com](mailto:chadwuo@outlook.com);
 - 🌐 Website: https://poetic.ltd
 
 </br>
