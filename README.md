@@ -1,7 +1,5 @@
 ### Hey，我是 Chadwuo👋
 
-> 最近在找工作（合肥），如果你觉得我还不错的话，可以给我一个机会
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" />
 
 ## Glad to see you here!
